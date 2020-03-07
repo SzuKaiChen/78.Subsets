@@ -17,3 +17,7 @@ Output:
   [1,2],
   []
 ]
+
+Solution: using dfs.
+
+This idea is come from caikehe at leetcode.
