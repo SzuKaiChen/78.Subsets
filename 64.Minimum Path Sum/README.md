@@ -3,7 +3,7 @@ Given a _m x n_ grid filled with non-negative numbers, find a path from top left
 
 Note: You can only move either down or right at any point in time.
 
-##Example:
+**Example:**
 
     Input:
     [
